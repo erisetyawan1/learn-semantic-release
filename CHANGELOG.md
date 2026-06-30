@@ -1,3 +1,10 @@
+# [3.0.0](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.8...v3.0.0) (2026-06-30)
+
+
+### Bug Fixes
+
+* **landing page:** fix variable name ([ae97319](https://github.com/erisetyawan1/learn-semantic-release/commit/ae97319fa29743513936c574052c57b1a52e0fdb))
+
 ## [2.1.8](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.7...v2.1.8) (2026-06-30)
 
 
