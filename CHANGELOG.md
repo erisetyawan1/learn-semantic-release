@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/erisetyawan1/learn-semantic-release/compare/v1.1.0...v1.2.0) (2026-06-30)
+
+
+### Features
+
+* update package.json version on release ([435890d](https://github.com/erisetyawan1/learn-semantic-release/commit/435890d36ec09e8d059ba49d8bb93dd8c337df34))
+
 # [1.1.0](https://github.com/erisetyawan1/learn-semantic-release/compare/v1.0.0...v1.1.0) (2026-06-29)
 
 
