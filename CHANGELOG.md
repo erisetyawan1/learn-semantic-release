@@ -1,3 +1,10 @@
+## [2.1.8](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.7...v2.1.8) (2026-06-30)
+
+
+### Bug Fixes
+
+* use conventionalcommits for analyzer, angular for release notes ([fa59bed](https://github.com/erisetyawan1/learn-semantic-release/commit/fa59bed2546ccc1a5f22a7fdc1ebd70c21dbceac))
+
 ## [2.1.7](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.6...v2.1.7) (2026-06-30)
 
 
