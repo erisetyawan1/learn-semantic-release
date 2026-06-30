@@ -1,3 +1,5 @@
+## [2.1.4](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.3...v2.1.4) (2026-06-30)
+
 ## [2.1.3](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.2...v2.1.3) (2026-06-30)
 
 ## [2.1.2](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.1...v2.1.2) (2026-06-30)
