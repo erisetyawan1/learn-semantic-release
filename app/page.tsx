@@ -17,7 +17,7 @@ export default function Home() {
             We are learning semantic-release this is bug fix V3!!!!
           </h1>
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            this is version {process.env.app_VERSION}
+            this is version {process.env.APP_VERSION}
           </h1>
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             this is version new feature fix
