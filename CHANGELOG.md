@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/erisetyawan1/learn-semantic-release/compare/v3.0.0...v4.0.0) (2026-06-30)
+
+
+### Features
+
+* new feature ([a800328](https://github.com/erisetyawan1/learn-semantic-release/commit/a8003287e4b4deb2e0e7b8780ad92e812755bf19))
+
+
+### BREAKING CHANGES
+
+* New feature is live
+
 # [3.0.0](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.8...v3.0.0) (2026-06-30)
 
 
