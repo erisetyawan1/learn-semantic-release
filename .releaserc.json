@@ -5,22 +5,7 @@
       "preset": "conventionalcommits"
     }],
     ["@semantic-release/release-notes-generator", {
-      "preset": "conventionalcommits",
-      "presetConfig": {
-        "types": [
-          {"type": "feat",     "section": "Features",                "effect": "bump"},
-          {"type": "fix",      "section": "Bug Fixes",               "effect": "bump"},
-          {"type": "perf",     "section": "Performance Improvements", "effect": "bump"},
-          {"type": "revert",   "section": "Reverts",                 "effect": "changelog"},
-          {"type": "docs",     "section": "Documentation",           "effect": "changelog"},
-          {"type": "refactor", "section": "Code Refactoring",        "effect": "changelog"},
-          {"type": "test",     "section": "Tests",                   "effect": "hidden"},
-          {"type": "style",    "effect": "hidden"},
-          {"type": "chore",    "effect": "hidden"},
-          {"type": "ci",       "effect": "hidden"},
-          {"type": "build",    "effect": "hidden"}
-        ]
-      }
+      "preset": "conventionalcommits"
     }],
     "@semantic-release/changelog",
     ["@semantic-release/npm", {
@@ -28,7 +13,7 @@
     }],
     ["@semantic-release/git", {
       "assets": ["CHANGELOG.md", "package.json"],
-      "message": "chore(release): ${nextRelease.version} [skip ci]"
+      "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
     }],
     "@semantic-release/github"
   ]
