@@ -1,3 +1,10 @@
+## [2.1.7](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.6...v2.1.7) (2026-06-30)
+
+
+### Bug Fixes
+
+* simplify releaserc ([a3f7a14](https://github.com/erisetyawan1/learn-semantic-release/commit/a3f7a14b683bdd138f950118f5242e537bcbf0ed))
+
 ## [2.1.6](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.5...v2.1.6) (2026-06-30)
 
 ## [2.1.5](https://github.com/erisetyawan1/learn-semantic-release/compare/v2.1.4...v2.1.5) (2026-06-30)
